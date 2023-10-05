@@ -6,9 +6,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <logo />
         <h1>Hello from React</h1>
+        <Weather city="Kyiv" />
       </header>
-      <Weather city="Kyiv" />
     </div>
   );
 }
