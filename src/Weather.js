@@ -17,7 +17,7 @@ export default function Weather(props) {
   return (
     <Audio
       height="80"
-      width="80"
+      width="120"
       radius="9"
       color="violet"
       ariaLabel="loading"
