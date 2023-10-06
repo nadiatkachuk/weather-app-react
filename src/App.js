@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Hello from React</h1>
-        <Weather city="Kyiv" />
+        <Weather city="Lviv" />
       </header>
     </div>
   );
