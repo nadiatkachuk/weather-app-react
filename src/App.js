@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <logo />
+        <img src={logo} className="App-logo" alt="logo" />
         <h1>Hello from React</h1>
         <Weather city="Kyiv" />
       </header>
